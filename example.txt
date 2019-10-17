@@ -1,2 +1,4 @@
 Root commit
 It's the second commit
+I added the third line after conbining multiple commit above
+It's the fourth line but it's not pushed to the remote
